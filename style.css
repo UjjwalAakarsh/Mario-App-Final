@@ -1,0 +1,40 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h2{
+    display:inline;
+}
+.heading button{
+    float: right;
+    font-size: 22px;
+    border: 1px solid wheat ;
+}
+#marioimg{
+    width: 100%;
+}
+#startbutton{
+    font-size: 22px;
+    
+}
+#footer{
+    background-color: whitesmoke;
+    font-size: 22px;
+    color: black;
+    margin: 0px;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+}
+.modal-dialog{
+    width: 90%;
+}
+.modal_img{
+    width: 45%;
+}
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position:center ;
+    padding: 20px;
+}
